@@ -1,0 +1,33 @@
+.fa {
+    font-size: 50px;
+}
+
+.fa-brands {
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.fa-vk {
+    color: blueviolet;
+    background-color: black;
+}
+
+.fa-whatsapp {
+    color: green;
+    background-color: gold;
+}
+
+.fa-viber {
+    color: darkmagenta;
+    background-color: aqua;
+}
+
+.fa-vk:hover {
+    color: red;
+    background-color: blue;
+}
+
+.fa-viber:hover {
+    color: darkorange;
+    background-color: darkblue;
+}
